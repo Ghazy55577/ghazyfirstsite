@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://perfumes-5f4.pages.dev/sitemap.xml
